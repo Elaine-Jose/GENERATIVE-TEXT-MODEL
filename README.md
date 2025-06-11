@@ -28,3 +28,7 @@ The output is an interactive Python script that allows minimal inputs for the us
 
 This project serves as a strong foundation for further enhancements, such as adding a graphical user interface (GUI), fine-tuning the model on specific domains (like healthcare or finance), or deploying it as a web application using frameworks like Flask or Streamlit.
 
+*OUTPUT*
+
+<img width="761" alt="Image" src="https://github.com/user-attachments/assets/eff88c85-7155-41a2-86e2-c1af60cb4460" />
+
